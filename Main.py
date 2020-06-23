@@ -1,2 +1,2 @@
 print("Cokolwiek")
-ptint("Cokoliwiek w nowej gałęzi")
+print("Cokoliwiek w nowej gałęzi")
